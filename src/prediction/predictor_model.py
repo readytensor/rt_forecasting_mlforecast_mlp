@@ -122,6 +122,7 @@ class Forecaster:
                 activation=activation,
                 solver=solver,
                 alpha=alpha,
+                random_state=random_state,
                 **kwargs,
             )
         ]
