@@ -2,7 +2,7 @@
   "history_forecast_ratio": null,
   "lags_forecast_ratio": 4,
   "hidden_layer_sizes": [100],
-  "activation": "tanh",
+  "activation": "relu",
   "solver": "adam",
   "learning_rate": "adaptive",
   "alpha": 0.0,
