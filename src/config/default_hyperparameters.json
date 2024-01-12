@@ -1,0 +1,12 @@
+{
+  "history_forecast_ratio": 10,
+  "lags_forecast_ratio": 4,
+  "hidden_layer_sizes": [100],
+  "activation": "tanh",
+  "solver": "adam",
+  "learning_rate": "adaptive",
+  "alpha": 0.0,
+  "use_exogenous": true,
+  "random_state": 0
+  
+}
